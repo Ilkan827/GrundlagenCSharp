@@ -35,4 +35,3 @@ Console.WriteLine($"{Klasse}");
 Console.WriteLine("Aufgabe  3");
 
 Console.WriteLine($"{Vorname} ist {Alter} Jahre alt und besucht die Klasse {Klasse} des Georg-Simon-Ohm Berufskolleg");
-
