@@ -46,8 +46,8 @@ Console.WriteLine(decimal.MinValue);
 
 Console.WriteLine("Aufgabe 2");
 
-string vorname = "Lukas";
-short alter = 22;
+string vorname = "ilkan";
+short alter = 16;
 bool frage = true;
 
 Console.WriteLine("Ihre Antworten:");
