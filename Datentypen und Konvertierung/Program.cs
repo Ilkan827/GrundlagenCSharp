@@ -61,8 +61,6 @@ Console.WriteLine("Aufgabe 3");
 int DollarZahl = 36;
 char Dollar = (char)DollarZahl;
 
-
-
 Console.WriteLine("Aufgabe 4");
 
 Console.WriteLine("Geben Sie Die Variable ein!");
