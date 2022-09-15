@@ -62,11 +62,8 @@ Console.WriteLine(erster_spr);
 
 Console.WriteLine("Aufgabe 3");
 
-/*
 int DollarZahl = 36;
 char Dollar = (char)DollarZahl;
-*/
-
 
 Console.WriteLine("Aufgabe 4");
 
