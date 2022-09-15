@@ -72,5 +72,7 @@ Console.WriteLine("Aufgabe 4");
 
 Console.WriteLine("Geben Sie Die Variable ein!");
 string v1_str = Console.ReadLine();
-
 short v1_int = Convert.ToInt16(v1_str);
+
+string v2_str = Console.ReadLine();
+double v2_double = Convert.ToDouble(v2_str);
